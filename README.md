@@ -6,7 +6,8 @@
 <p align="left">
 <a href="https://fb.com/lwin.moeaung.9480111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lwin.moeaung.9480111" height="30" width="40" /></a>
 </p>
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwinmoeaung-springarts&show_icons=true&theme=tokyonight)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 <h3 align="left">Languages and Tools:</h3>

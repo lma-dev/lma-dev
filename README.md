@@ -1,4 +1,3 @@
-![creative coder](https://github.com/lwinmoeaung-springarts/lwinmoeaung-springarts/blob/main/142349514_1303275040066179_6261638266216969389_n.jpg)
 <h1 align="center">Hi 👋, I'm Lwin Moe Aung</h1>
 <h3 align="center">Web Developer from Myanmar</h3>
 

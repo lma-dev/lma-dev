@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Lwin Moe Aung</h1>
 <h3 align="center">Web Developer from Myanmar</h3>
 
+- 💬 Ask me about **laravel,vue,php**
+
+- 📫 How to reach me **lwinmoeaung.it@gmail.com**
+
+- ⚡ Fun fact **I think I'm funny**
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/lwin.moeaung.9480111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lwin.moeaung.9480111" height="30" width="40" /></a>
@@ -8,15 +14,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwinmoeaung-springarts&show_icons=true&theme=radical)
 
-
-<h1 align="center">Hi 👋, I'm Lwin Moe Aung</h1>
-<h3 align="center">Webdeveloper</h3>
-
-- 💬 Ask me about **laravel,vue,php**
-
-- 📫 How to reach me **lwinmoeaung.it@gmail.com**
-
-- ⚡ Fun fact **I think I'm funny**
 
 
 <h3 align="left">Languages and Tools:</h3>

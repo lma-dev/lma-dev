@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lwin Moe Aung</h1>
-<h3 align="center">Web Developer from Myanmar</h3>
+<h3 align="center">Web Developer</h3>
 
 - 💬 Ask me about **laravel,vue,php**
 

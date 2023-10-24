@@ -1,32 +1,35 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Lwin Moe Aung</a></h1>
-<h3 align="center">A passionate Web App developer from Myanmar</h3>
+<h1 align="center">Hi , I'm Lwin Moe Aung<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23EE4B2B&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer;Competitive+Programmer;Expert+on+Codeforces;Always+Challenging+on+learning+new+things"></a>
+</p>
+<br>
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+<picture><img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></a></picture>
+
+<br><br>
 
 - 🌱 I’m currently Working on Web Development with Laravel and Next Js
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning frontend and Infrastructure.
-
 - 💬 Ask me about **Laravel & Next Js**
 
 - 📫 How to reach me **lwinmoeaung.it@gmail.com**
+<br>
 
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/lma-dev">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/lma-dev">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
       </div>
 
 </p>
+
+
+
